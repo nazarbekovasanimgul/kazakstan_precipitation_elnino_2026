@@ -20,10 +20,10 @@ forecast seasons; it will be verified against ERA5 in 2027.
 2. Seasonal sums (OND, DJF, MAM, JJA) and a 1991-2020 climatology.
 3. Four zones within Kazakhstan's borders: all country, north (>50°N),
    centre (45-50°N), south (<45°N).
-4. Analysis of strong El Niño events (ONI >= 2.0, 1979 onwards: 1982-83,
+4. Analysis of strong El Niño events (ONI≥2.0, 1979 onwards: 1982-83,
    1997-98, 2015-16) and correlation/regression of seasonal precipitation
    on the Oceanic Niño Index (ONI).
-5. Scenario-based outlook (ONI = 2.0, 2.5, 3.0) with 80% prediction intervals.
+5. Scenario-based outlook (ONI=2.0, 2.5, 3.0) with 80% prediction intervals.
 
 ## Limitations
 
